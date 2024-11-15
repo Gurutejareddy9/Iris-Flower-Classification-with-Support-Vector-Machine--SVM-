@@ -5,4 +5,5 @@
  3. Trains an SVM model with a linear kernel to classify the iris species. 
  4. Evaluates the model’s performance on the test set using accuracy. 
  5. Visualizes the results with a confusion matrix heatmap, showing true vs. predicted values.
+    
 This project demonstrates the use of SVM for multi-class classification and visualization using Seaborn and Matplotlib.
